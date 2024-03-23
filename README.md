@@ -16,6 +16,5 @@ I created this website to kickstart my journey into software development and sha
 
 - [Blog](https://blog.pypy.guru/)
 - [YouTube](https://www.youtube.com/@pypyguru)
-- [GitHub](https://github.com/pypyguru)
 
 ---
